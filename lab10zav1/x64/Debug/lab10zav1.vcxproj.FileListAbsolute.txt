@@ -1,0 +1,3 @@
+E:\Лабораторні\lab10zav1\lab10zav1\x64\Debug\lab10zav1.vcxproj.AssemblyReference.cache
+E:\Лабораторні\lab10zav1\lab10zav1\x64\Debug\lab10zav1.MyForm.resources
+E:\Лабораторні\lab10zav1\lab10zav1\x64\Debug\lab10zav1.vcxproj.GenerateResource.cache
